@@ -37,8 +37,7 @@
 
 
         {"name": "idafree70.flare", "x64Only": true},
-        {"name": "idafree.flare"},
-        {"name": "binaryninja.flare"},
+        {"name": "idafree.flare"},        
         {"name": "radare2.flare"},
         {"name": "cutter.flare"},
         {"name": "ghidra.fireeye"},
@@ -55,23 +54,17 @@
         {"name": "javaruntime"},
         {"name": "jd-gui.flare"},
         {"name": "bytecode-viewer.flare"},
-        {"name": "dex2jar.flare"},
-
 
         {"name": "vbdecompiler.flare"},
-
 
         {"name": "idr.small.flare"},
 
         {"name": "ffdec.flare"},
 
-        {"name": "kali_windowsbinaries.flare"},
-
         {"name": "volatility.flare", "x64Only": true},
 
         {"name": "fileinsight.flare"},
         {"name": "hxd.flare"},
-        {"name": "010editor.flare"},
 
         {"name": "peid.flare"},
         {"name": "explorersuite.flare"},
@@ -84,8 +77,6 @@
         {"name": "resourcehacker.flare"},
         {"name": "processdump.fireeye"},
 
-
-        {"name": "sublimetext3"},
         {"name": "notepadplusplus.flare"},
 
         {"name": "SilkETW.fireeye"},
@@ -137,15 +128,12 @@
 
         {"name": "nasm.fireeye"},
 
-        {"name": "vim.flare"},
         {"name": "cygwin.flare"},
-        {"name": "burp.free.flare"},
         {"name": "retdec.flare"},
         {"name": "MAP.flare"},
         {"name": "SysAnalyzer.flare"},
         {"name": "pmalabs.flare"},
 
-        {"name": "apktool.flare"},
         {"name": "flare-qdb.python.flare"},
         {"name": "floss.python.flare"},
         {"name": "fakenet-ng.python.flare"}
